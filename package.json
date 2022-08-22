@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "create-torrent": "^5.0.4",
+    "node-pre-gyp": "^0.17.0",
+    "webtorrent": "^1.8.26",
+    "webtorrent-hybrid": "^5.0.2"
+  },
+  "type": "module"
+}
